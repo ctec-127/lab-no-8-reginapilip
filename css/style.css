@@ -4,9 +4,55 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background: #fafafa;
 }
 
 th a:link, th a:visited, th a:hover, th a:active {
     color: #ffffff;
+}
+
+.nav-bg {
+    background: #eee;
+}
+
+.jumbotron {
+    color: white;
+    background-image: url(../img/rain-unsplash.jpg);
+    background-position: bottom;
+}
+
+footer .container {
+    margin-top: 3em;
+    padding: 1em;
+    background: #eee;
+}
+
+.footer-class, .footer-copy {
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 0 0 0 1.5em;
+}
+
+.converted-temp {
+    font-weight: bolder;
+    background: rgba(177, 78, 78, 0.397);
+    padding: 1em;
+}
+
+.units {
+    font-weight: bold;
+}
+
+.form-info {
+    background: #eee;
+    padding: 1em 0;
+}
+
+.form-info-headers {
+    margin-bottom: 1em;
+}
+
+.btn {
+    margin-top: -20px;
+    font-weight: bold;
+    padding: 0.5em 2em;
 }
