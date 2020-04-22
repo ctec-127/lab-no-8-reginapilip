@@ -31,7 +31,7 @@
 	</div> <!-- end first row div -->
 	<div class="form-group row">
 		<div class="col-12">
-			<input type="submit" class="btn btn-danger" value="Convert!"/>  
+			<input type="submit" class="btn btn-success" value="Convert!"/>  
 		</div>
 	</div>
 	</form>
