@@ -17,6 +17,7 @@
 	<?php require "inc/layout/header.inc.php"; ?>
 </header>
 
+<!-- this is a test -->
 <?php 
 require "inc/function/functions.inc.php";
 require "inc/form/process-form.inc.php";
